@@ -3,7 +3,7 @@
     <router-view />
   </div>
 </template>
-
+bendi
 <script>
 export default {
   name: 'App'
